@@ -16,15 +16,17 @@ translating needs into a well-defined solution, driving alignment, and owning th
 outcome to production. I brought ROI clarity and won CDAO leadership approval for a
 new bank-wide standard, negotiated the requirements with the core platform team,
 and then delivered it end-to-end: an Operator that instruments applications with
-zero code changes, now the bank's gold standard. I engage credibly with engineers
-on API discovery, feasibility, non-functional requirements, and data models —
+zero code changes, now the bank's gold standard. I engage with engineers
+on API discovery, feasibility, non-functional requirements, with regards to data models —
 RadGround alone enforces a strict source-of-truth schema contract across two apps,
 from key schema to validated fixtures to mock data — and I've acted as the early
-warning system that surfaces delivery risk before it becomes a budget problem.
+warning system that surfaces delivery risk before it becomes a budget problem. I run
+agile delivery hands-on as Scrum Master, managing backlogs and ceremonies end-to-end
+in Jira and Confluence.
 
-My background is engineering-led rather than a formal product-owner title, and I'd
-rather name that than paper over it: what I bring is the pattern-recognition to walk
-into an ambiguous, unfamiliar use case, scope it, and own its delivery — which is
+My title is Principal Engineer rather than Product Owner, but the delivery craft is
+the same one you're hiring for: I bring the pattern-recognition to walk into an
+ambiguous, unfamiliar use case, scope it, and own it through to production — which is
 exactly what a portfolio of emerging AI projects across varied industries demands.
 I'm Sydney-based and an Australian citizen (no sponsorship needed), comfortable
 on-site, and open to full-time or contract. I'd welcome the chance to walk you

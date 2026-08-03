@@ -43,23 +43,23 @@ ownership + executive ROI alignment + requirements negotiation + early-warning o
   early-warning on scope/budget risk (Pega reliability triage); partner with Eng on API
   discovery / NFRs / feasibility; AI product readiness (shipped GenAI product);
   milestone demos + UAT-style validation; client-facing roots (COPEX UK outsourcing).
-- **Stretch (bridged honestly)**: "deep agile — running sprint ceremonies + managing
-  backlogs end-to-end" — Julian leads multi-squad **agile delivery** (scope, user
-  stories, blocker removal) but is not a scrum-master/PO by title; framed as delivery
-  leadership, not ceremony ownership. "Primary customer liaison on complex projects" —
+- **Strong (confirmed by user, now in master résumé)**: **deep agile** — Julian has
+  extensive experience as **Scrum Master** running ceremonies + managing backlogs
+  end-to-end, and extensive hands-on **Jira + Confluence**. Both were stated must-haves;
+  both now claimed directly in résumé + cover letter. This closed the two weakest gaps.
+- **Stretch (bridged honestly)**: "Primary customer liaison on complex projects" —
   strongest external evidence is COPEX + RadGround's clinical stakeholder; CBA is
   internal advisory.
 - **Gap**: **No formal BA/PM/PO/consultant title** — named openly in cover-letter ¶3,
-  bridged with pattern-recognition into ambiguous use cases + the RadGround owner remit.
-  **Jira/Confluence** not evidenced in master résumé — did NOT claim either tool by
-  name (said "agile delivery" / requirement authoring instead). Flag as a strengthening
-  prompt.
+  but softened (title ≠ craft) now that agile/Scrum Master is confirmed; bridged with
+  pattern-recognition into ambiguous use cases + the RadGround owner remit.
 
 ## Decisions, assumptions & answers
 - **No clarifying question asked** — fit is bridgeable and the "delivery-focused role"
   clause is met; consistent with the ubank/tech-holding direct-produce pattern.
-- **Did not invent Jira/Confluence usage** — master résumé doesn't record it; left it
-  out rather than fabricate a named-tool claim. Worth confirming with Julian.
+- **Jira/Confluence + Scrum Master confirmed by user** (2026-08-03) — promoted to the
+  master résumé as reusable facts ("Agile delivery & tooling" section) and claimed in
+  both documents. First draft deliberately withheld these pending confirmation; now solid.
 - **RadGround framed as the anchor** — the one place Julian truly owns the full
   product-owner/BA/delivery-lead remit for a real (clinical) customer. Honest caveat if
   probed: it's his own solo product, customer = the chief radiologist stakeholder.
@@ -69,12 +69,9 @@ ownership + executive ROI alignment + requirements negotiation + early-warning o
   gold standard, owned to production); COPEX client-facing UK outsourcing roots.
 
 ## Follow-ups / strengthening prompts
-- **Jira/Confluence** is a stated must-have and currently unclaimed. If Julian has real
-  hands-on experience with either (RadGround planning, CBA delivery boards), name it —
-  it closes a clean gap.
-- If he has **formal agile-ceremony ownership** (ran standups/sprint planning/retros as
-  scrum-master or PO for a squad), swap in a named bullet — currently the weakest
-  must-have.
+- ~~Jira/Confluence~~ and ~~formal agile-ceremony ownership~~ — CLOSED 2026-08-03:
+  user confirmed extensive Scrum Master + Jira/Confluence experience; now in master
+  résumé and both documents.
 - If he's done any **external/vendor/customer-facing delivery at CBA** (not just
   internal advisory), name it to strengthen "primary customer liaison" beyond COPEX.
 - Optional: render to .docx/.pdf matching the JV-2026 single-column layout.
