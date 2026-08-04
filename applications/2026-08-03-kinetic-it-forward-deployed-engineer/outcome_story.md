@@ -18,19 +18,22 @@ yet another standard. Winning this meant persuading CDAO leadership it was worth
 doing, then negotiating the actual Java adoption standard with the platform team
 rather than imposing it.
 
-**What I shipped.** I proposed the pattern, won leadership approval, and built an
-OpenTelemetry Operator that instruments applications with **zero code changes** —
-telemetry injected via an init-container at deploy time. Teams got logs, metrics and
-traces by adopting a pattern, not by editing their code. I took it all the way to
-production on EKS.
+**What I shipped.** I proposed the pattern, won CDAO leadership approval, and
+delivered an approved, tested and trialled OpenTelemetry implementation pattern for
+the Chief Data Office platforms — logs, metrics and traces — with the hard parts
+solved: metric-cardinality considerations tuned per platform, distributed-tracing
+persistence, and a trace-correlation guarantee. I built it on the OpenTelemetry
+Operator so instrumentation is **zero-touch and zero-code**: every new Pod is
+auto-instrumented from the established pattern, with no application changes. I took it
+all the way to production on EKS.
 
-**What changed, and what moved.** The per-team manual chore disappeared: onboarding a
-new service to full observability went from days of bespoke instrumentation work to a
-zero-code adoption step. The pattern became the **bank's gold standard** for similar
-applications and spread across the estate — value delivered once became value
-delivered repeatedly, each deployment faster than the last. *(Add the hardest number
-you're comfortable sharing here — e.g. services onboarded, engineer-days saved per
-service, or MTTR/coverage improvement.)*
+**What changed.** The per-team manual chore disappeared. Onboarding a new service to
+full logs/metrics/traces went from bespoke, code-level instrumentation work to a
+zero-touch adoption step — every new Pod instrumented automatically, correlation
+guaranteed, cardinality controlled. The pattern became the **bank's gold standard**
+for similar applications and spread across the estate: the reusable capability meant
+each deployment was faster and more consistent than the last — value delivered once,
+delivered again at scale.
 
 **Why it's the job you're describing.** I found the friction from inside the
 operation, built the narrow useful thing, hardened it for a regulated production

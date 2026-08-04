@@ -23,10 +23,10 @@ organisational pushback.
 
 My delivery has been in-house rather than as an external consultant, but the
 substance is identical: embed, discover, ship into constraints I don't own, and win
-adoption. I'm Sydney-based and an Australian citizen, I understand the travel is real
-and national, and I'm genuinely drawn to the pace — discovery to a working demo in
-days is the part I'd lean into, not endure. My build proof is public at jvev.link and
-github.com/jvalbuena, and I've attached a short outcome story. I'd welcome the
-conversation.
+adoption. I'm Sydney-based and an Australian citizen, and I'm open to the national
+travel the role needs. For build proof I'd point you to RadGround — the live
+radiology-training platform I built end-to-end, which I'm glad to walk you through
+under NDA (radground.replit.app) — alongside my public work at jvev.link and
+github.com/jvalbuena, and the short outcome story below. I'd welcome the conversation.
 
 Julian Valbuena
