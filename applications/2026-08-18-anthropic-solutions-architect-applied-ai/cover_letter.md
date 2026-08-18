@@ -6,7 +6,7 @@ The rest of the role — translating a technical vision into a decision an enter
 
 The one honest gap is that I've never held a formal pre-sales title — my stakeholder work has been as an internal trusted advisor at CBA, plus genuinely client-facing early-career work running UK outsourcing delivery and business development at COPEX, working with Sun Microsystems US and UK. It's the same skill aimed outward instead of inward, and I'm confident it transfers quickly. I'm Sydney-based, an Australian citizen with no visa sponsorship required, comfortable with the hybrid office policy and occasional customer travel, and open to full-time. I'd welcome the chance to talk through how I'd help Australian enterprises get from Claude evaluation to production.
 
-I find the Anthropic mission fascinating, the AI safety question puzzles me, this is probably my greatest motivation to work for Anthropic as I want to cut all the speculation and hopefully be able to see the good work done from the inside. As a Product the Claude ecosystem is the most useful out there, note that I'm preparing to take the Claude Certified Architecture Exam in the next few weeks.
+Why Anthropic specifically: the mission has foundational clarity, and I've watched the execution back it up — leadership here is unusually honest about naming both the risk this technology carries and the opportunity it represents. I want to put my weight on the side of the incentive structure that tilts toward a better outcome, and I think this role — sitting between what enterprises actually need and how Claude gets built and deployed safely — is a real lever for that. I'm also currently preparing to sit the Claude Certified Architect exam in the coming weeks.
 
 Best regards,
 Julian Valbuena
