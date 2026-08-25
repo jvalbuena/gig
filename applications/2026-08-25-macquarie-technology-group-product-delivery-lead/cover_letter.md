@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I'm writing to apply for the Product Delivery Lead role at Macquarie Technology Group. I've spent the last five years as a Principal Engineer at Commonwealth Bank doing work that, in substance, is exactly this job: I don't manage delivery from a distance — I sit in the detail of requirements, negotiate solutions directly with engineering teams, and own outcomes for a portfolio spanning custom applications, COTS platforms and APIs. I also use Claude and Copilot daily as working tools, not novelties, which is clearly central to how your team operates.
+
+The clearest example is a project I took from a blank page to a bank-wide standard: I identified a gap in how CBA's Decisioning platform was being observed in production, built the case for a new approach, won leadership sign-off, and then negotiated the actual technical adoption standard with the core platform team — the same value-based trade-off and roadmap-shaping work this role asks for, just done from inside an engineering seat rather than a BA one. Alongside that strategic work I've carried BAU ownership of a live, large-scale commerce API platform, so I know what it takes to balance a portfolio's day-to-day pressure against its longer-term roadmap. I'm also fluent enough across custom .NET-style software, SaaS platforms, APIs and microservices to hold a real technical conversation with an engineering squad about integration and solution trade-offs, and I bring genuine Scrum Master and Jira/Confluence experience from years of agile delivery.
+
+I don't hold a formal Business Analyst or Product Owner title — my career has been built as an engineer who ends up owning the requirements-to-delivery pipeline anyway — but the pattern of work is the same, and I'd rather be upfront about that than paper over it. I'm Sydney-based, an Australian citizen, and comfortable working from your CBD office on a blended arrangement, open to full-time or contract. I'd welcome the chance to talk through how this experience maps onto your squad's portfolio.
+
+Regards,
+Julian Valbuena
