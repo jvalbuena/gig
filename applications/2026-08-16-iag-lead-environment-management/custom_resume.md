@@ -10,13 +10,12 @@ Principal Engineer with 15+ years owning environment stability, platform
 reliability, and change-enablement inside a highly regulated enterprise
 (Commonwealth Bank). Currently accountable for BAU stability and observability
 across CBA's Decisioning and API Hosting environments while a large-scale
-enterprise transformation (on-premise → EKS) runs in parallel — the same dual
+enterprise transformation (on-premise → EKS) running in parallel — the same dual
 mandate this role describes: keep BAU environments stable while enabling change
 delivery within them. I define environment strategy and governance from first
 principles, not just configuration: I authored the bank-wide OTEL observability
-pattern and the OTEL Operator that auto-instruments every new environment on
-rollout, and I've led the cross-program coordination needed to move a critical
-platform between environments without breaking BAU.
+pattern and the OTEL Operator that auto-instruments every new JAVA environment on
+EKS via auto-instrumentation, and I've led the cross-program coordination needed to move a critical platform between environments without breaking BAU.
 
 ## Environment & Platform Stability Highlights
 - **BAU environment ownership through a live transformation** — currently own
@@ -33,7 +32,7 @@ platform between environments without breaking BAU.
   CUJ documentation, SLO/SLI definitions, and incident-triage tooling (Sentinel
   Nexus, an agentic triaging platform) for critical Decisioning workloads; when
   a workload misbehaved, teams previously had no shared environment signal —
-  this closed that gap bank-wide.
+  this closed that gap accross our platforms.
 - **Cross-program dependency management** — coordinated the Pega Decisioning and
   Sales API platform migrations from on-premise into shared EKS environments
   across multiple squads and platform teams, sequencing change so BAU reliability
@@ -65,7 +64,7 @@ platform between environments without breaking BAU.
 - Delivered the Pega and Sales API modernisation from on-premise environments
   into EKS, managing cross-program dependencies between platform, security, and
   application teams throughout.
-- Drove agentic-AI adoption for environment operations (Sentinel Nexus triaging
+- Drove agentic-AI adoption for environment operations (Agentic triaging
   platform, cleric.io PoC) to speed incident diagnosis across environments.
 
 **SRE — Kafka & Microservices Platforms** (2.5 yrs)
