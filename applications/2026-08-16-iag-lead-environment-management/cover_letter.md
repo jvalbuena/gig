@@ -1,11 +1,12 @@
+Sydney 16 Aug 2026
+
 Dear Hiring Manager,
 
 I'm writing to apply for the Lead Environment Management role at IAG. The mandate
-you've described — own BAU stability for critical non-production environments while
-enabling change delivery from a large enterprise transformation running alongside it
-— is exactly the job I've been doing at Commonwealth Bank for the last five years,
-where I've carried environment reliability for the bank's largest Pega Decisioning
-platform through a live on-premise-to-EKS migration without BAU ever going down.
+you've described to "own BAU stability for critical non-production environments while
+enabling change delivery from a large enterprise transformation running alongside it" is exactly the job I've been doing at Commonwealth Bank for the last five years,
+where I've carried environment reliability for the bank's Chief Data Office's
+platform through a live on-premise-to-AWS migration without BAU ever going down.
 
 That dual mandate is the hard part, and it's where I can point to specifics. I
 defined end-to-end environment strategy and governance from a genuine greenfield —
