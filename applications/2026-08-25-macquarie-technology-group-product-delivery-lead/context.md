@@ -8,7 +8,7 @@
 - 5+ years recent hands-on BA/technical BA experience.
 - Demonstrated Product Ownership: backlog prioritisation, roadmap shaping, value-based
   trade-off decisions in Agile.
-- Practical, current use of AI tools (Claude, Copilot or similar) — explicitly central to
+- In depth use of AI tools (Claude, Copilot or similar) — explicitly central to
   how the team works.
 - Experience working directly with software engineering teams across the SDLC.
 - Technical fluency across custom software, SaaS, APIs, modern platforms.
