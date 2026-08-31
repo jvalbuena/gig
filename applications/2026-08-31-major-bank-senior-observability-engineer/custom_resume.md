@@ -18,8 +18,8 @@ AppDynamics-to-Elastic/OTEL migration, with the same SRE and governance rigor.
 ## Observability Migration & Engineering Highlights
 - **OTEL migration standard (CDAO) — proposed and won leadership approval** for a
   new, bank-wide OpenTelemetry observability pattern (logs, metrics, traces),
-  replacing fragmented per-team tooling with a single instrumentation standard;
-  negotiated the adoption requirements directly with the core platform team.
+  replacing fragmented tooling with a single instrumentation standard;
+  negotiated adoption requirements directly with CBA's core platform team.
 - **OTEL Operator — automated, zero-code rollout** — built an OTEL Operator that
   auto-instruments every new pod on CBA's EKS estate via init-container injection
   (zero code changes), with per-platform metric-cardinality tuning and a
@@ -28,18 +28,17 @@ AppDynamics-to-Elastic/OTEL migration, with the same SRE and governance rigor.
 - **SLI/SLO-based monitoring transition** — led the SRE initiative to shift CDAO's
   Kafka streaming and microservices platforms onto SLO/SLI-based monitoring and
   alerting, including CUJ documentation and architecture sign-off (HLSA).
-- **AppDynamics-era depth** — years of hands-on APM instrumentation and SLO-based
-  alerting on AppDynamics and Splunk (Kafka/microservices platforms, CommSec cloud
-  migration, MP API platform) — the legacy-tooling side of an AppDynamics exit is
+- **AppDynamics-era depth** — 12 years of hands-on APM instrumentation and SLO-based
+  alerting on AppDynamics and Splunk (for Kafka/microservices platforms, CommSec cloud
+  migration, Microservices platform) — the legacy-tooling side of an AppDynamics exit is
   first-hand experience, not theory.
 - **Governance, cost and risk discipline** — negotiated the OTEL adoption standard
   through formal architecture sign-off (HLSA), tuned per-platform metric
-  cardinality to control telemetry cost at bank scale, and have directly managed
-  the kind of licence/tooling footprint an AppDynamics decommission requires.
+  cardinality to control telemetry cost at bank scale, and have directly managed licence/tooling footprint to meet AppDynamics decommissioning targets.
 - **Cross-enterprise stakeholder communication** — won leadership approval for a
   bank-wide observability standard and negotiated its adoption directly with the
   core platform team — securing buy-in across architecture, platform, and
-  application engineering groups, not just within one squad.
+  application engineering teams, not just within one squad.
 - **Full tooling breadth across observability generations** — AppDynamics, Splunk,
   Observe, Fluent Bit, Jaeger, and LLM observability (Langfuse, OTEL GenAI
   conventions) on personal AI products — comfortable evaluating and retiring
@@ -57,21 +56,24 @@ AppDynamics-to-Elastic/OTEL migration, with the same SRE and governance rigor.
 **Principal Engineer, SRE — CDAO Decisioning & API Hosting** (2020–present)
 - Architected, designed, and owned the rollout **all the way to production** of
   CBA's new bank-wide OTEL observability pattern (logs/metrics/traces): won CDAO
-  leadership approval, negotiated the Java adoption standard with the core
-  platform team, and shipped an OTEL Operator for zero-code instrumentation on
+  leadership approval, negotiated the new OTEL zero-code adoption standard with
+  the core platform team, and shipped an OTEL Operator for zero-code
+  instrumentation on both proprietary Java and .NET applications hosted on
   EKS — now the bank's gold standard, delivered as a full migration off legacy
   per-team observability tooling.
 - Led AppDynamics APM lifecycle for EKS-hosted platforms within CDAO.
 - Developed SLI/SLO definition and CUJ documentation for application workloads.
 - Optimised CBA's largest Pega Decisioning Platform implementation (Customer Engagement Engine): triaged and resolved serious reliability issues via capacity modelling, RCA, and non-functional testing redesign.
-- Drove agentic-AI adoption for operations (Sentinel Nexus triaging platform, cleric.io PoC), producing runbooks and self-service assets for team adoption.
+- Grew a CBA hackathon prototype (agentic-AI for operations) into the Sentinel
+  Nexus triaging platform and the cleric.io agentic-SRE proof of concept.
+- Produced runbooks, gameday exercises, and self-service assets for team adoption.
 - Delivered a Pega and Sales API modernisation from on-premise to EKS containers.
 
 **SRE — Kafka & Microservices Platforms** (2.5 yrs)
-- Built reliability and workload-management practice for CBA's Kafka streaming and microservices platforms; APM instrumentation via AppDynamics and Splunk, developed baseline SLO monitoring via AppDynamics APM.
+- Built reliability and workload-management practice for CBA's Kafka streaming (Java) and microservices (.NET/Java) platforms; APM instrumentation via AppDynamics and Splunk, developed baseline SLO monitoring via AppDynamics APM.
 
 **Senior DevOps Engineer / Performance Engineer** (5 yrs)
-- DevOPS Engineer for Pega Decisioning application on Docker; maintained Docker build pipelines.
+- DevOps Engineer for the Pega Decisioning (CoTS — Java/Tomcat) application on Docker; maintained Docker build pipelines.
 - AppDynamics APM instrumentation rollout for CommSec cloud migration.
 - AppDynamics APM instrumentation rollout for Microservices API platforms; Splunk log collection rollout.
 
