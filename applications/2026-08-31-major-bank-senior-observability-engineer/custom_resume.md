@@ -16,7 +16,7 @@ adoption zero-effort for engineering teams — the same shape of work as an
 AppDynamics-to-Elastic/OTEL migration, with the same SRE and governance rigor.
 
 ## Observability Migration & Engineering Highlights
-- **OTEL migration standard (CDAO) — proposed and won leadership approval** for a
+- **OTEL migration standard (CDAO) — proposed and won leadership approval** for implementing the
   new, bank-wide OpenTelemetry observability pattern (logs, metrics, traces),
   replacing fragmented per-team tooling with a single instrumentation standard;
   negotiated the adoption requirements directly with the core platform team.
