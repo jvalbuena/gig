@@ -4,7 +4,7 @@ Dear Hiring Manager,
 
 I'm writing about the Principal Engineer, AI role. The job is essentially the bridge
 between AI strategy and engineering delivery, and that's the exact bridge I've spent
-the last 5+ years building at Commonwealth Bank: I proposed a new bank-wide
+the last 6 years building at Commonwealth Bank: I proposed a new bank-wide
 observability standard, won leadership approval for it, negotiated the technical
 adoption pattern with the core platform team, and then shipped the tooling — a
 Kubernetes Operator that auto-instruments every new workload with zero code changes —
@@ -32,9 +32,11 @@ line with "influencing without authority" as this role asks for.
 
 My AI standard-setting has been internal to CBA rather than under an "Enterprise AI
 Hub" banner, but the mechanics — translating ambiguous strategy into a concrete,
-adopted engineering pattern — are the same skill aimed at a newer problem. I'm
-Sydney-based, an Australian citizen, comfortable on-site in the CBD several days a
-week, and open to a conversation about how this role is scoped. I'd welcome the chance
+adopted engineering pattern — are the same skill aimed at a newer problem. I keep
+that current deliberately: I'm currently enrolled in Deakin's Short Course in
+Generative AI and preparing for Claude's Certified Architect exam. I'm Sydney-based,
+an Australian citizen, comfortable on-site in the CBD several days a week, and open
+to a conversation about how this role is scoped. I'd welcome the chance
 to talk through how the OTEL Operator pattern (and RadGround) map onto what Medibank
 is trying to build.
 

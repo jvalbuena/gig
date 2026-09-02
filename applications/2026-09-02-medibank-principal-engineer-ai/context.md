@@ -76,6 +76,16 @@ production root-cause analysis. This is the resume's clearest "AI capability,
 hackathon to embedded platform tooling" story and now reads as such rather than a
 side note.
 
+## Revision (2026-09-02, continuous-learning credentials)
+User asked to include current upskilling: enrolled in **Deakin's Short Course in
+Generative AI** and preparing for the **Claude Certified Architect** exam
+(Anthropic). Added to résumé Education section and cover letter ¶3 as a brief
+continuous-learning signal. Both facts promoted to master résumé under a new
+"In progress" section so future applications can reuse them without re-asking —
+update to "completed" once each finishes (Claude Certified Architect prep was
+first surfaced 2026-08-18 in the Anthropic application; still in progress as of
+this application).
+
 ## Follow-ups / strengthening prompts
 - If Julian has any hands-on experience with **AWS-native AI services specifically**
   (Bedrock, SageMaker) rather than AWS platform/infra generally, naming it would

@@ -145,3 +145,5 @@ architecture through to real clinical users.
 - **MIT IDSS** — Applied Data Science & AI/ML specialization (2023–2024)
 - **University of Wollongong** — Master of IT, graduated with distinction (2001–2002)
 - **Universidad Pontificia Bolivariana** — BEng Electronics (1995–2000)
+- Currently enrolled in **Deakin University's Short Course in Generative AI**;
+  preparing for the **Claude Certified Architect** exam (Anthropic).
