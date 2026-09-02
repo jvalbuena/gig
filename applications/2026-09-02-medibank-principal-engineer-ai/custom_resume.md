@@ -58,6 +58,7 @@ architecture through to real clinical users.
 ### Commonwealth Bank Australia — Sydney · Jul 2013–present
 
 **Principal Engineer, SRE — CDAO Decisioning & API Hosting** (2020–present)
+
 - Architected, designed, and owned the rollout **to production** of CBA's new
   bank-wide OpenTelemetry engineering standard (logs/metrics/traces): won leadership
   approval, negotiated the Java adoption standard with the core platform team, and
@@ -80,11 +81,13 @@ architecture through to real clinical users.
   owned reliability for the Sales API platform on EKS.
 
 **SRE — Kafka & Microservices Platforms** (2.5 yrs)
+
 - Built reliability and workload-management practice for CBA's Kafka streaming and
   microservices platforms; SLO-based instrumentation and alerting for critical
   workloads via AppDynamics and Splunk.
 
 **Senior DevOps Engineer / Performance Engineer** (5 yrs)
+
 - Designed and built the Pega Decisioning application on Docker; maintained CI/CD
   build pipelines.
 - Optimised performance for the CommSec cloud migration and MP API platforms.
