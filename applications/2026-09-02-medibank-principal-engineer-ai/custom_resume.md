@@ -38,11 +38,16 @@ architecture through to real clinical users.
   TypeScript front end, PostgreSQL, end-to-end OpenTelemetry + Langfuse LLM
   observability from day one. Hands-on evidence of integrating AI models and APIs
   into a real, observed, cost-aware production environment — not just a prototype.
+- **Agentic AI, hackathon to production platform** — built an SRE agent that
+  integrates with the Kubernetes API to diagnose issues across CDAO's EKS-hosted
+  applications, starting as a hackathon project; developed it into Sentinel Nexus,
+  an internal agentic triaging platform now used for production root-cause analysis
+  (with a cleric.io agentic-SRE proof-of-concept run alongside it). A concrete
+  example of taking an AI capability from prototype to embedded platform tooling.
 - **Influence without authority, across squads** — engineering leadership (technical
   and architecture showcases, training, introducing new standards) that shifted
   practice across multiple CDAO squads, distinct from and in addition to formal line
-  management. Drove agentic-AI adoption for operations (Sentinel Nexus triaging
-  platform, cleric.io proof-of-concept).
+  management.
 - **Cloud-native delivery, secure-by-design** — architected and delivered the
   migration of CBA's largest Pega Decisioning platform and its Sales API estate from
   on-premise to AWS EKS; Kubernetes Operators and Terraform IaC for platform
@@ -64,9 +69,11 @@ architecture through to real clinical users.
   Engagement Engine, one of the world's largest Pega Decisioning deployments):
   triaged and delivered a reliability turnaround in weeks (capacity remodel,
   root-cause analysis, non-functional testing redesign, software upgrade).
-- Drove agentic-AI adoption for operations (Sentinel Nexus triaging platform,
-  cleric.io proof-of-concept) — early, hands-on translation of AI capability into
-  operational tooling.
+- Built an agentic SRE tool (Kubernetes API integration for diagnosis) starting as
+  a hackathon project, then developed it into Sentinel Nexus, an internal agentic
+  triaging platform now used for production root-cause analysis (cleric.io
+  agentic-SRE proof-of-concept run alongside it) — early, hands-on translation of
+  AI capability into operational tooling.
 - Coached and mentored engineers across squads through technical showcases and
   training, growing the SRE and observability practice org-wide.
 - Delivered Pega and Sales API modernisation from on-premise to EKS containers, and
@@ -108,8 +115,9 @@ architecture through to real clinical users.
   observability. Live users: a group of radiologists and neuroradiologists based in
   Switzerland who test and give real-world feedback. Built in public: jvev.link ·
   live app: radground.replit.app.
-- **Agentic SRE (CBA)** — hackathon project: SRE agent for AWS EKS clusters, Kube
-  API integration for diagnosis and RCA.
+- **Sentinel Nexus (CBA)** — agentic SRE tool for AWS EKS clusters (Kubernetes API
+  integration for diagnosis and RCA), started as a hackathon project and developed
+  into an internal agentic triaging platform used in production.
 - **Multi-agent systems** — CrewAI research crews; privacy-first local-LLM research
   agent (Ollama, Node.js).
 - **MIT IDSS Hackathon, 1st runner-up (Feb 2024)** — passenger-satisfaction

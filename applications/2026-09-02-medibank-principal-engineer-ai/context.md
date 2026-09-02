@@ -64,6 +64,18 @@ engineering leadership* rather than observability/SRE craft).
   (confirmed 2026-08-03); Swiss radiologist/neuroradiologist RadGround users
   (confirmed 2026-08-18); COPEX UK outsourcing incl. Sun Microsystems US/UK.
 
+## Revision (2026-09-02, post-draft)
+User asked to feature the **Sentinel Nexus / agentic SRE story more prominently** —
+it was previously buried as a parenthetical under "Influence without authority."
+Given its own standalone highlight bullet, expanded in the CBA experience bullet,
+and clarified in "Selected AI & Product Work" and the cover letter ¶2: an SRE agent
+integrating with the Kubernetes API to diagnose issues on CDAO's EKS-hosted apps,
+started as a hackathon project during his tenure as Principal Engineer for CDAO,
+developed into Sentinel Nexus — an internal agentic triaging platform now used for
+production root-cause analysis. This is the resume's clearest "AI capability,
+hackathon to embedded platform tooling" story and now reads as such rather than a
+side note.
+
 ## Follow-ups / strengthening prompts
 - If Julian has any hands-on experience with **AWS-native AI services specifically**
   (Bedrock, SageMaker) rather than AWS platform/infra generally, naming it would
