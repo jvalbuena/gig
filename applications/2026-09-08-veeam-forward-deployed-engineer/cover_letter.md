@@ -1,3 +1,10 @@
+**Julian Valbuena**
+Sydney, Australia · julian.valbuena@gmail.com · linkedin.com/in/jvev
+
+September 8, 2026
+
+**Re: Forward Deployed Engineer — Veeam**
+
 Dear Hiring Manager,
 
 I'm writing to apply for the Forward Deployed Engineer role at Veeam. FDE work is
@@ -32,4 +39,5 @@ contract engagement. I'd welcome the chance to talk through how the OTEL Operato
 work translates directly to Veeam's data and AI trust platform.
 
 Best regards,
-Julian Valbuena
+
+**Julian Valbuena**
