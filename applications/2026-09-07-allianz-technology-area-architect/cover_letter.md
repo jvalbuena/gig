@@ -1,3 +1,4 @@
+
 Dear Hiring Manager,
 
 I'm writing to apply for the Area Architect role at Allianz Technology. For the
