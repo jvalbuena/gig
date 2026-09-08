@@ -1,3 +1,11 @@
+**Julian Valbuena**
+Sydney, Australia · julian.valbuena@gmail.com · linkedin.com/in/jvev
+
+9 September 2026
+
+Grafana Labs
+Re: Observability Architect
+
 Dear Grafana Labs Hiring Team,
 
 I'm writing about the Observability Architect role. For the last five years at
