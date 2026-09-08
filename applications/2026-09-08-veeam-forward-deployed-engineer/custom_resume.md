@@ -34,11 +34,16 @@ governance and observability designed in from day one.
   auto-instruments every new workload via init-container injection with **zero code
   changes**, bridging legacy application code and the platform's observability
   standard (per-platform metric-cardinality tuning, distributed-tracing persistence,
-  trace-correlation guarantees). Implemented via Terraform IaC on AWS/EKS. Now the
+  trace-correlation guarantees). Implemented via GitOps/ArgoCD on AWS/EKS. Now the
   gold standard reused across similar platforms at CBA.
 - **Data pipeline & system interoperability** — developed the OTEL instrumentation
   standard for CBA's Kafka streaming and microservices platforms, and worked with
   Kong as the bank's enterprise API gateway within the CDAO API Hosting platform.
+- **Data governance & security controls** — led access control reviews for
+  applications hosted on EKS; enforced encryption requirements for data in transit
+  and at rest; designed PII-safe instrumentation patterns for AppDynamics and OTEL
+  telemetry; led data classification and materiality assessment for the Cleric.io
+  agentic-triaging PoC on CDAO Decisioning platforms.
 - **Executive & technical stakeholder leadership** — owned the technical relationship
   with CDAO leadership and the core platform team through architecture workshops and
   design reviews; influenced adoption of the OTEL standard org-wide and mentored
@@ -108,7 +113,7 @@ governance and observability designed in from day one.
 
 ## Skills
 - **Cloud & Infrastructure**: AWS (deep, EKS/Kubernetes), GCP (GPU inference
-  endpoints), Kubernetes Operators, Linux systems, Terraform IaC, Docker.
+  endpoints), Kubernetes Operators, Linux systems, GitOps/ArgoCD IaC, Docker.
 - **Integration & Automation**: Python, TypeScript/Node.js, API integrations
   (Kong gateway), custom Kubernetes Operators / init-container "glue code",
   distributed system design, Kafka streaming.
@@ -117,6 +122,9 @@ governance and observability designed in from day one.
   Splunk, Observe (OPAL), Langfuse, PostgreSQL.
 - **AI/ML**: agentic system design (CrewAI, Claude Code), LLM patterns (inference
   queueing, evals), Python data science, scikit-learn.
+- **Data Governance & Security**: access control reviews (EKS-hosted apps),
+  encryption in transit/at rest, PII-safe telemetry design, data classification
+  and materiality assessment.
 - **Governance & Delivery**: FinOps/cost governance at multi-tenant EKS scale,
   ITIL certified, Scrum Master, Jira/Confluence.
 
