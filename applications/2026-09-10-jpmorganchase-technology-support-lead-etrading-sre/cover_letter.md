@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I'm writing to apply for the Technology Support Lead (Production Support/SRE) role supporting JPMorganChase's eTrading FICC Technology organization. I own production reliability for Commonwealth Bank's largest and most latency-sensitive platform — a real-time, Oracle-backed Pega Decisioning system with hard throughput and capacity constraints — which is the closest analogue I can offer to keeping electronic trading platforms stable under similarly unforgiving performance requirements.
+
+That ownership is concrete, not advisory: I triaged and resolved a serious reliability incident on this platform end-to-end (capacity remodeling, root-cause analysis, non-functional test redesign, capacity uplift, software upgrade), and I authored CBA's bank-wide OpenTelemetry observability standard along with the OTEL Operator that auto-instruments every Java application on our EKS estate with zero code changes — now the bank's gold standard for incident diagnostics and monitoring. On the AI-in-operations requirement specifically, I'm not describing a hypothetical: I lead Sentinel Nexus, an agentic incident-triaging platform for Decisioning at CBA, built with human-in-the-loop validation and escalation-on-uncertainty baked in from the start, alongside a cleric.io agentic-SRE proof-of-concept — exactly the reuse-first, AI-assisted triage discipline this role asks for, with the data-sensitivity and auditability guardrails a regulated environment demands.
+
+I don't have direct electronic-trading domain experience, though CBA's Sales API and CommSec cloud migration work put me adjacent to high-throughput, transaction-critical retail platforms — the pattern-recognition transfers cleanly, and I'd expect to be productive on FICC-specific workflows quickly. I'm Sydney-based, an Australian citizen requiring no visa sponsorship, and comfortable with early-APAC-hours and rotational weekend coverage aligned to market needs. I'd welcome the chance to discuss how this background applies to eTrading FICC's stability and resiliency goals.
+
+Best regards,
+Julian Valbuena
