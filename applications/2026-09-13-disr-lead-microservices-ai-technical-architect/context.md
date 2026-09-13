@@ -3,6 +3,16 @@
 - **Date**: 2026-09-13   **Status**: drafted
 - **Source**: pasted JD (via aienablers.io candidate portal; contract role, 01 Oct 2026
   start, 12 months + two 12-month extensions, ACT/Canberra hybrid)
+- **Also applied via**: Public Sector People recruitment agency posting (same role
+  type — federal government microservices/AI transformation program, initial
+  12-month contract, flexible/remote available). Cover letter retargeted: dropped
+  the Baseline-clearance and Canberra-relocation specifics (not mentioned in this
+  posting), addressed generically to "Hiring Manager" since no named DISR entity was
+  given, and adjusted the logistics line to the contract/remote-flexibility framing
+  this posting offers. Also added a sentence on microservices/Kafka streaming
+  platform migration depth (NFR ownership, resilience/failure-scenario testing, SLO
+  instrumentation, run-book documentation) plus the CBA Pega RCA/capacity-reworked
+  reliability incident, per user request to surface that experience explicitly.
 
 ## Job description (key requirements)
 Technical leadership and architectural authority for cloud-native, microservices-based,
