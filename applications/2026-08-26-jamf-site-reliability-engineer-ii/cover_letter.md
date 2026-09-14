@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I'm writing to apply for the Site Reliability Engineer II role at Jamf. I've spent the last several years as a Principal Engineer, SRE at Commonwealth Bank doing exactly what this role asks: production troubleshooting across the stack on AWS/EKS, building the observability that lets teams understand their own SLOs, and using agentic development tools daily as working tools rather than novelties — scoping bounded tasks to Claude Code and Copilot, verifying output before it touches production, which is clearly central to how your team operates.
+
+The clearest example is a project I took from a blank page to a bank-wide standard: I identified a gap in how CBA's Decisioning platform was being observed in production, built the case for a new OpenTelemetry pattern, won leadership sign-off, then negotiated the actual adoption standard with the core platform team and shipped an OTEL Operator that auto-instruments every new pod on the bank's EKS estate with zero code changes — now the bank's gold standard, and a good proxy for the kind of automation that eliminates toil rather than just documenting it. Alongside that I've run full incident-response cycles (triaging and resolving a serious reliability issue on one of the world's largest Pega Decisioning implementations through capacity modelling, RCA, and non-functional testing), and I've worked across AppDynamics, Splunk, Observe, Fluent Bit and Jaeger rather than only one observability generation — the same instinct that would carry over to Grafana/Prometheus. Outside work I solo-built and operate RadGround, a full-stack GenAI product instrumented end-to-end with OpenTelemetry and Langfuse from day one, so AI-assisted engineering and rigorous observability aren't separate skills for me — they're the same habit applied twice.
+
+I'm Sydney-based, an Australian citizen with full working rights, and comfortable with an on-call rotation and remote-first collaboration. I'd welcome the chance to talk through how this experience maps to your team's domain.
+
+Best regards,
+Julian Valbuena
