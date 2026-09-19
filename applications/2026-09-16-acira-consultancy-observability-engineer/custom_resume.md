@@ -135,3 +135,4 @@ Feb 2004–Aug 2008
 - **MIT IDSS** — Applied Data Science & AI/ML specialization (2023–2024)
 - **University of Wollongong** — Master of IT, graduated with distinction (2001–2002)
 - **Universidad Pontificia Bolivariana** — BEng Electronics (1995–2000)
+
